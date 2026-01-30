@@ -1,5 +1,7 @@
 # Häkel Blog
 
+<link rel="stylesheet" href="stylesheets/main.css"> 
+
 Diese Seite dient für mich als Dokumentation, was ich alles häkle und was mich beschäftigt.
 Ich habe im Februar 2025 angefangen zu häkeln.
 
@@ -60,7 +62,7 @@ Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft
 
 <img src="Bilder/Top_1.jpg" width="45%">
 <img src="Bilder/Top_2.jpg" width="45%">
- <video width="320" height="240" controls>
+ <video width="320" height="240" controls muted>
   <source src="Bilder/Top_3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
