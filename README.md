@@ -7,5 +7,7 @@ Ich habe im Februar 2025 angefangen zu häkeln.
 
 Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft, weil meine Schwester sich auch so ein ähnliches Kit gekauft hat.
 
-![image](/Bilder/Faultier_1.jpg)
-![image](/Bilder/Faultier_2.jpg)
+<img src="Bilder/Faultier_1.jpg" alt="Faultier" width="200">
+<img src="Bilder/Faultier_2.jpg" alt="Faultier" width="200">
+
+Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI.
