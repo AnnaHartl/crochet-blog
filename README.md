@@ -13,6 +13,12 @@
       - [Zweites Top](#zweites-top)
       - [Blumentasche und Applikationen](#blumentasche-und-applikationen)
       - [Granny-Square Tasche für mich](#granny-square-tasche-für-mich)
+      - [Scrap-Yarn Täschchen](#scrap-yarn-täschchen)
+      - [Granny-Square Tasche für Michelle](#granny-square-tasche-für-michelle)
+      - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
+      - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
+      - [Stirnbänder](#stirnbänder)
+      - [Erste Weste](#erste-weste)
     - [2026](#2026)
 
 <link rel="stylesheet" href="stylesheets/main.css"> 
@@ -107,6 +113,58 @@ Your browser does not support the video tag.
 <img src="Bilder/GrannyTasche_4.jpg" width="40%">
 <img src="Bilder/GrannyTasche_5.jpg" width="40%">
 
+#### Scrap-Yarn Täschchen
+
+<img src="Bilder/Scrap_1.jpg" width="40%">
+<img src="Bilder/Scrap_2.jpg" width="40%">
+<img src="Bilder/Scrap_3.jpg" width="40%">
+
+#### Granny-Square Tasche für Michelle
+
+<img src="Bilder/GrannyTasche2_1.jpg" width="40%">
+<img src="Bilder/GrannyTasche2_2.jpg" width="40%">
+<img src="Bilder/GrannyTasche2_4.jpg" width="40%">
+<img src="Bilder/GrannyTasche2_5.jpg" width="40%">
+<img src="Bilder/GrannyTasche2_6.jpg" width="40%">
+<img src="Bilder/GrannyTasche2_7.jpg" width="40%">
+
+#### Haube Hellbraun und Dunkelbraun
+
+<img src="Bilder/Haube_1.jpg" width="40%">
+<img src="Bilder/Haube_2.jpg" width="40%">
+<img src="Bilder/Haube_3.jpg" width="40%">
+<img src="Bilder/Haube_4.jpg" width="40%">
+<img src="Bilder/Haube_5.jpg" width="40%">
+<img src="Bilder/Haube_6.jpg" width="40%">
+<img src="Bilder/Haube_7.jpg" width="40%">
+<img src="Bilder/Haube_8.jpg" width="40%">
+
+<!-- <img src="Bilder/Haube_8.jpg" width="40%"> 
+<img src="Bilder/Haube_9.jpg" width="40%">
+Finale Fotos der Hauben -->
+
+#### Blau-Weiß Fanschal
+
+<img src="Bilder/BW_7.jpg" width="40%">
+<img src="Bilder/BW_6.jpg" width="40%">
+<img src="Bilder/BW_3.jpg" width="40%">
+<img src="Bilder/BW_4.jpg" width="40%">
+<img src="Bilder/BW_1.jpg" width="40%">
+<img src="Bilder/BW_2.jpg" width="40%">
+<img src="Bilder/BW_5.jpg" width="40%">
+
+#### Stirnbänder
+
+<img src="Bilder/SB_1.jpg" width="40%">
+<img src="Bilder/SB_2.jpg" width="40%">
+<img src="Bilder/SB_4.jpg" width="40%">
+<img src="Bilder/SB_3.jpg" width="40%">
+<img src="Bilder/SB_5.jpg" width="40%">
+<img src="Bilder/SB_6.jpg" width="40%">
+<img src="Bilder/SB_7.jpg" width="40%">
+<img src="Bilder/SB_8.jpg" width="40%">
+
+#### Erste Weste
 
 ### 2026
 
