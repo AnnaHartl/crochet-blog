@@ -1,5 +1,7 @@
 Häkel Blog
+
 - [2025](#2025)
+  - [Pinguin](#pinguin)
   - [Faultier](#faultier)
   - [Häkeltäschchen](#häkeltäschchen)
   - [Granny-Square](#granny-square)
@@ -32,6 +34,9 @@ Ich habe im Februar 2025 angefangen zu häkeln.
 Häkelprojekte
 
 # 2025
+
+## Pinguin
+
 Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft, weil meine Schwester sich auch so ein ähnliches Kit gekauft hat.
 
 ## Faultier
