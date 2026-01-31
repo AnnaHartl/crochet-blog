@@ -1,61 +1,60 @@
-# Häkel Blog
-- [Häkel Blog](#häkel-blog)
-  - [Häkelprojekte](#häkelprojekte)
-    - [2025](#2025)
-      - [Faultier](#faultier)
-      - [Häkeltäschchen](#häkeltäschchen)
-      - [Granny-Square](#granny-square)
-      - [Blumenanhänger](#blumenanhänger)
-      - [Tote-Bag](#tote-bag)
-      - [Blumen Applikationen](#blumen-applikationen)
-      - [Taschen mit Schnur](#taschen-mit-schnur)
-      - [Erstes Top](#erstes-top)
-      - [Zweites Top](#zweites-top)
-      - [Blumentasche und Applikationen](#blumentasche-und-applikationen)
-      - [Granny-Square Tasche für mich](#granny-square-tasche-für-mich)
-      - [Scrap-Yarn Täschchen](#scrap-yarn-täschchen)
-      - [Granny-Square Tasche für Michelle](#granny-square-tasche-für-michelle)
-      - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
-      - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
-      - [Stirnbänder](#stirnbänder)
-    - [2026](#2026)
-      - [Erste Weste](#erste-weste)
-      - [Dunkelblaue Haube](#dunkelblaue-haube)
-      - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
-      - [Kuschelsocken](#kuschelsocken)
-      - [Granny-Square Tasche für Mama](#granny-square-tasche-für-mama)
+Häkel Blog
+- [2025](#2025)
+  - [Faultier](#faultier)
+  - [Häkeltäschchen](#häkeltäschchen)
+  - [Granny-Square](#granny-square)
+  - [Blumenanhänger](#blumenanhänger)
+  - [Tote-Bag](#tote-bag)
+  - [Blumen Applikationen](#blumen-applikationen)
+  - [Taschen mit Schnur](#taschen-mit-schnur)
+  - [Erstes Top](#erstes-top)
+  - [Zweites Top](#zweites-top)
+  - [Blumentasche und Applikationen](#blumentasche-und-applikationen)
+  - [Granny-Square Tasche für mich](#granny-square-tasche-für-mich)
+  - [Scrap-Yarn Täschchen](#scrap-yarn-täschchen)
+  - [Granny-Square Tasche für Michelle](#granny-square-tasche-für-michelle)
+  - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
+  - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
+  - [Stirnbänder](#stirnbänder)
+  - [Yarn-Winder](#yarn-winder)
+- [2026](#2026)
+  - [Erste Weste](#erste-weste)
+  - [Dunkelblaue Haube](#dunkelblaue-haube)
+  - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
+  - [Kuschelsocken](#kuschelsocken)
+  - [Granny-Square Tasche für Mama (In Arbeit)](#granny-square-tasche-für-mama-in-arbeit)
 
 <link rel="stylesheet" href="stylesheets/main.css"> 
 
 Diese Seite dient für mich als Dokumentation, was ich alles häkle und was mich beschäftigt.
 Ich habe im Februar 2025 angefangen zu häkeln.
 
-## Häkelprojekte
+Häkelprojekte
 
-### 2025
+# 2025
 Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft, weil meine Schwester sich auch so ein ähnliches Kit gekauft hat.
 
-#### Faultier
+## Faultier
 
 <img src="Bilder/Faultier_1.jpg" alt="Faultier" width="40%">
 <img src="Bilder/Faultier_2.jpg" alt="Faultier" width="40%">
 
-#### Häkeltäschchen
+## Häkeltäschchen
 
 <img src="Bilder/Häkeltasche_1.jpg" width="40%">
 <img src="Bilder/Häkeltasche_2.jpg" width="40%">
 <img src="Bilder/Häkeltasche_3.jpg" width="40%">
 <img src="Bilder/Häkeltasche_4.jpeg" width="40%">
 
-#### Granny-Square
+## Granny-Square
 
 <img src="Bilder/Granny.jpeg" width="40%">
 
-#### Blumenanhänger
+## Blumenanhänger
 
 <img src="Bilder/Blumenanhänger.jpg" width="40%">
 
-#### Tote-Bag
+## Tote-Bag
 
 <img src="Bilder/Totebag_2.jpg" width="40%">
 <img src="Bilder/Totebag_3.jpg" width="40%">
@@ -67,7 +66,7 @@ Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft
 <img src="Bilder/Totebag_9.jpg" width="40%">
 <img src="Bilder/Totebag_10.jpg" width="40%">
 
-#### Blumen Applikationen
+## Blumen Applikationen
 
 <img src="Bilder/Blumen_1.jpg" width="40%">
 <img src="Bilder/Blumen_2.jpg" width="40%">
@@ -76,29 +75,29 @@ Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft
 <img src="Bilder/Blumen_5.jpg" width="40%">
 <img src="Bilder/Blumen_6.jpg" width="40%">
 
-#### Taschen mit Schnur
+## Taschen mit Schnur
 
 <img src="Bilder/Taschen_Schnurr_1.jpg" width="40%">
 <img src="Bilder/Taschen_Schnurr_2.jpeg" width="40%">
 <img src="Bilder/Taschen_Schnurr_3.jpg" width="40%">
 <img src="Bilder/Taschen_Schnurr_4.jpg" width="40%">
 
-#### Erstes Top
+## Erstes Top
 
 <img src="Bilder/Top_1.jpg" width="40%">
 <img src="Bilder/Top_2.jpg" width="40%">
- <video width="320" height="240" controls muted>
+ <video width="40%" controls>
   <source src="Bilder/Top_3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 
-#### Zweites Top
+## Zweites Top
 
 <img src="Bilder/Top2_1.jpg" width="40%">
 <img src="Bilder/Top2_2.jpg" width="40%">
 <img src="Bilder/Top2_3.jpg" width="40%">
 
-#### Blumentasche und Applikationen
+## Blumentasche und Applikationen
 
 
 <img src="Bilder/GrüneBlume_3.jpg" width="40%">
@@ -108,7 +107,7 @@ Your browser does not support the video tag.
 <img src="Bilder/GrüneBlume_2.jpg" width="40%">
 <img src="Bilder/GrüneBlume_6.jpg" width="40%">
 
-#### Granny-Square Tasche für mich
+## Granny-Square Tasche für mich
 
 <img src="Bilder/GrannyTasche_6.jpg" width="40%">
 <img src="Bilder/GrannyTasche_1.jpg" width="40%">
@@ -117,13 +116,13 @@ Your browser does not support the video tag.
 <img src="Bilder/GrannyTasche_4.jpg" width="40%">
 <img src="Bilder/GrannyTasche_5.jpg" width="40%">
 
-#### Scrap-Yarn Täschchen
+## Scrap-Yarn Täschchen
 
 <img src="Bilder/Scrap_1.jpg" width="40%">
 <img src="Bilder/Scrap_2.jpg" width="40%">
 <img src="Bilder/Scrap_3.jpg" width="40%">
 
-#### Granny-Square Tasche für Michelle
+## Granny-Square Tasche für Michelle
 
 <img src="Bilder/GrannyTasche2_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche2_2.jpg" width="40%">
@@ -132,7 +131,7 @@ Your browser does not support the video tag.
 <img src="Bilder/GrannyTasche2_6.jpg" width="40%">
 <img src="Bilder/GrannyTasche2_7.jpg" width="40%">
 
-#### Haube Hellbraun und Dunkelbraun
+## Haube Hellbraun und Dunkelbraun
 
 <img src="Bilder/Haube_1.jpg" width="40%">
 <img src="Bilder/Haube_2.jpg" width="40%">
@@ -147,7 +146,7 @@ Your browser does not support the video tag.
 <img src="Bilder/Haube_9.jpg" width="40%">
 Finale Fotos der Hauben -->
 
-#### Blau-Weiß Fanschal
+## Blau-Weiß Fanschal
 
 <img src="Bilder/BW_7.jpg" width="40%">
 <img src="Bilder/BW_6.jpg" width="40%">
@@ -157,7 +156,7 @@ Finale Fotos der Hauben -->
 <img src="Bilder/BW_2.jpg" width="40%">
 <img src="Bilder/BW_5.jpg" width="40%">
 
-#### Stirnbänder
+## Stirnbänder
 
 <img src="Bilder/SB_1.jpg" width="40%">
 <img src="Bilder/SB_2.jpg" width="40%">
@@ -168,23 +167,69 @@ Finale Fotos der Hauben -->
 <img src="Bilder/SB_7.jpg" width="40%">
 <img src="Bilder/SB_8.jpg" width="40%">
 
-### 2026
+## Yarn-Winder
 
-#### Erste Weste
+<img src="Bilder/Winder_1.jpg" width="40%">
 
 
-#### Dunkelblaue Haube
+# 2026
 
-#### Mosaik-Crochet Täschchen
+## Erste Weste
+
+<img src="Bilder/Weste_1.jpg" width="40%">
+<img src="Bilder/Weste_5.jpg" width="40%">
+<img src="Bilder/Weste_6.jpg" width="40%">
+<img src="Bilder/Weste_7.jpg" width="40%">
+
+
+ <video width="40%" controls>
+  <source src="Bilder/Weste_4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+ <video width="40%" controls>
+  <source src="Bilder/Weste_8.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+
+<img src="Bilder/Weste_2.jpg" width="40%">
+<img src="Bilder/Weste_3.jpg" width="40%">
+
+## Dunkelblaue Haube
+
+<img src="Bilder/Haube2_1.jpg" width="40%">
+
+
+<!-- Fotos von Haube machen -->
+
+
+## Mosaik-Crochet Täschchen
+
+<img src="Bilder/Mosaik_1.jpg" width="40%">
+<img src="Bilder/Mosaik_2.jpg" width="40%">
+<img src="Bilder/Mosaik_3.jpg" width="40%">
+<img src="Bilder/Mosaik_4.jpg" width="40%">
+<img src="Bilder/Mosaik_5.jpg" width="40%">
+<img src="Bilder/Mosaik_6.jpg" width="40%">
 
 <!-- Von CrochetbyJessie -->
 
-#### Kuschelsocken
+## Kuschelsocken
+
+<img src="Bilder/Socke_1.jpg" width="40%">
+<img src="Bilder/Socke_2.jpg" width="40%">
+<img src="Bilder/Socke_3.jpg" width="40%">
+<img src="Bilder/Socke_4.jpg" width="40%">
+<img src="Bilder/Socke_5.jpg" width="40%">
+<img src="Bilder/Socke_6.jpg" width="40%">
+
 
 <!-- Vom Buch -->
 
-#### Granny-Square Tasche für Mama
+## Granny-Square Tasche für Mama (In Arbeit)
 
+<img src="Bilder/GrannyTasche3_1.jpg" width="40%">
+<img src="Bilder/GrannyTasche3_2.jpg" width="40%">
 
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
