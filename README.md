@@ -18,8 +18,12 @@
       - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
       - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
       - [Stirnbänder](#stirnbänder)
-      - [Erste Weste](#erste-weste)
     - [2026](#2026)
+      - [Erste Weste](#erste-weste)
+      - [Dunkelblaue Haube](#dunkelblaue-haube)
+      - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
+      - [Kuschelsocken](#kuschelsocken)
+      - [Granny-Square Tasche für Mama](#granny-square-tasche-für-mama)
 
 <link rel="stylesheet" href="stylesheets/main.css"> 
 
@@ -164,9 +168,23 @@ Finale Fotos der Hauben -->
 <img src="Bilder/SB_7.jpg" width="40%">
 <img src="Bilder/SB_8.jpg" width="40%">
 
+### 2026
+
 #### Erste Weste
 
-### 2026
+
+#### Dunkelblaue Haube
+
+#### Mosaik-Crochet Täschchen
+
+<!-- Von CrochetbyJessie -->
+
+#### Kuschelsocken
+
+<!-- Vom Buch -->
+
+#### Granny-Square Tasche für Mama
+
 
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
