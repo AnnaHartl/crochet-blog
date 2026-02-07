@@ -25,26 +25,29 @@ Häkel Blog
   - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
   - [Kuschelsocken](#kuschelsocken)
   - [Granny-Square Tasche für Mama (In Arbeit)](#granny-square-tasche-für-mama-in-arbeit)
+  - [Schal für Deko-Hasen](#schal-für-deko-hasen)
+  - [Kleine Kopfbedeckungen für Smothies (In Arbeit)](#kleine-kopfbedeckungen-für-smothies-in-arbeit)
 
 <link rel="stylesheet" href="stylesheets/main.css"> 
 
-Diese Seite dient für mich als Dokumentation, was ich alles häkle und was mich beschäftigt.
-Ich habe im Februar 2025 angefangen zu häkeln.
-
-Häkelprojekte
+Diese Seite dient mir als Dokumentation für alles, was ich häkle und was mich beschäftigt. Ich habe im Februar 2025 mit dem Häkeln angefangen.
 
 # 2025
 
 ## Pinguin
 
-Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft, weil meine Schwester sich auch so ein ähnliches Kit gekauft hat.
+Mein erstes Projekt war ein Pinguin. Ich hatte mir ein Häkelset von Tedy gekauft, weil meine Schwester sich ein Häkel-Set für ein Faultier besorgt hatte.
 
 ## Faultier
+
+Meine Schwester hat wieder aufgehört zu häkeln, da die Häkelnadel aus dem Set sehr minderwertig war. Auch ich hatte anfangs Probleme damit. Schließlich habe ich das Faultier von ihr übernommen und mit einer besseren Häkelnadel das Projekt erfolgreich abgeschlossen.
 
 <img src="Bilder/Faultier_1.jpg" alt="Faultier" width="40%">
 <img src="Bilder/Faultier_2.jpg" alt="Faultier" width="40%">
 
 ## Häkeltäschchen
+
+Die Konstruktion ist sehr simpel: Es wird ein Rechteck gehäkelt, das dann gedrittelt wird. Zwei Drittel bilden die Tasche, ein Drittel die Lasche. Ich habe die Tasche gefüttert und an die Lasche Luftmaschen angehäkelt, um sie mit einem Knopf verschließen zu können.
 
 <img src="Bilder/Häkeltasche_1.jpg" width="40%">
 <img src="Bilder/Häkeltasche_2.jpg" width="40%">
@@ -57,9 +60,15 @@ Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft
 
 ## Blumenanhänger
 
+Die Blumen können als Taschenanhänger genutzt werden. 
+
+<a href="https://www.youtube.com/watch?v=8Rvfkv1S4sc&list=WL&index=52" target="_blank">Tutorial für die Blumen</a> 
+
 <img src="Bilder/Blumenanhänger.jpg" width="40%">
 
 ## Tote-Bag
+
+Durch dieses Projekt lernte ich Charts zu lesen. Ich kann leider nicht mehr das Foto dazu finden. Aber es hat sich als sehr hilfreich herausgestellt. 
 
 <img src="Bilder/Totebag_2.jpg" width="40%">
 <img src="Bilder/Totebag_3.jpg" width="40%">
@@ -72,6 +81,8 @@ Das erste Projekt war ein Pinguin. Ich habe mir diese Häkelset von Tedy gekauft
 <img src="Bilder/Totebag_10.jpg" width="40%">
 
 ## Blumen Applikationen
+
+<!-- Buch -->
 
 <img src="Bilder/Blumen_1.jpg" width="40%">
 <img src="Bilder/Blumen_2.jpg" width="40%">
@@ -235,6 +246,18 @@ Your browser does not support the video tag.
 
 <img src="Bilder/GrannyTasche3_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche3_2.jpg" width="40%">
+<img src="Bilder/GrannyTasche3_3.jpg" width="40%">
+<img src="Bilder/GrannyTasche3_4.jpg" width="40%">
+<img src="Bilder/GrannyTasche3_5.jpg" width="40%">
+
+## Schal für Deko-Hasen
+
+<img src="Bilder/Hasen_1.jpg" width="40%">
+<img src="Bilder/Hasen_1.jpg" width="40%">
+
+
+## Kleine Kopfbedeckungen für Smothies (In Arbeit)
+
 
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
