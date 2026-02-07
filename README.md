@@ -137,6 +137,8 @@ Your browser does not support the video tag.
 <img src="Bilder/Scrap_1.jpg" width="40%">
 <img src="Bilder/Scrap_2.jpg" width="40%">
 <img src="Bilder/Scrap_3.jpg" width="40%">
+<img src="Bilder/Scrap_4.jpg" width="40%">
+<img src="Bilder/Scrap_5.jpg" width="40%">
 
 ## Granny-Square Tasche für Michelle
 
