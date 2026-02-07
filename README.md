@@ -24,7 +24,7 @@ Häkel Blog
   - [Dunkelblaue Haube](#dunkelblaue-haube)
   - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
   - [Kuschelsocken](#kuschelsocken)
-  - [Granny-Square Tasche für Mama (In Arbeit)](#granny-square-tasche-für-mama-in-arbeit)
+  - [Granny-Square Tasche für Mama](#granny-square-tasche-für-mama)
   - [Schal für Deko-Hasen](#schal-für-deko-hasen)
   - [Kleine Kopfbedeckungen für Smothies (In Arbeit)](#kleine-kopfbedeckungen-für-smothies-in-arbeit)
 
@@ -68,7 +68,7 @@ Die Blumen können als Taschenanhänger genutzt werden.
 
 ## Tote-Bag
 
-Durch dieses Projekt lernte ich Charts zu lesen. Ich kann leider nicht mehr das Foto dazu finden. Aber es hat sich als sehr hilfreich herausgestellt. 
+Durch dieses Projekt lernte ich, Charts zu lesen. Leider finde ich das Foto dazu nicht mehr. Aber es hat sich als sehr hilfreich herausgestellt, denn danach habe ich ein Buch mit Blumen-Granny-Squares bekommen. Die Idee für das Projekt stammte von mir, weil wir so viel Acrylwolle zu Hause hatten.
 
 <img src="Bilder/Totebag_2.jpg" width="40%">
 <img src="Bilder/Totebag_3.jpg" width="40%">
@@ -82,7 +82,10 @@ Durch dieses Projekt lernte ich Charts zu lesen. Ich kann leider nicht mehr das 
 
 ## Blumen Applikationen
 
-<!-- Buch -->
+Ich bin sehr stolz ein Buch fürs Häkeln zu haben so bin ich nicht auf das Internet für Anleitungen angewiesen. Es hat ein paar Versuche gebraucht, bis ich das Blumenmuster richtig hinbekommen habe, aber dann hat es gut funktioniert. Meine Mama hat sich die Blumen anschließend auf Kleider genäht.
+
+<img src="Bilder/Buch_1.jpg" width="40%">
+
 
 <img src="Bilder/Blumen_1.jpg" width="40%">
 <img src="Bilder/Blumen_2.jpg" width="40%">
@@ -93,12 +96,21 @@ Durch dieses Projekt lernte ich Charts zu lesen. Ich kann leider nicht mehr das 
 
 ## Taschen mit Schnur
 
+Hier kann ich das ursprüngliche Tutorial leider nicht mehr finden. Das Tutorial, das ich jetzt verlinke, verwendet aber die gleiche Technik. Ein weiterer Grund, warum es besser ist, ein Buch als Anleitung zu haben, denn das wird nicht einfach gelöscht.
+
+<a href="https://www.youtube.com/watch?v=O6MTqTCOO1I&t=567s" target="_blank">Tutorial für die Taschen mit Ziehschnurr</a> 
+
 <img src="Bilder/Taschen_Schnurr_1.jpg" width="40%">
 <img src="Bilder/Taschen_Schnurr_2.jpeg" width="40%">
 <img src="Bilder/Taschen_Schnurr_3.jpg" width="40%">
 <img src="Bilder/Taschen_Schnurr_4.jpg" width="40%">
 
 ## Erstes Top
+
+Die Konstruktion des Oberteils ist einfach: Man muss nur ein Rechteck häkeln, das so lang wie der Brustumfang ist. Dann werden noch Löcher für den Korsett-Verschlussmechanismus eingearbeitet. Leider ist es ungemütlich zu tragen, und ich habe Angst, dass die ganze Zeit etwas verrutscht. Deshalb werde ich es auch nicht in der Öffentlichkeit tragen.
+
+<a href="https://forthefrills.com/beginner-textured-crop-top-free-crochet-pattern/
+" target="_blank">Inspiriert von diesem Top</a> 
 
 <img src="Bilder/Top_1.jpg" width="40%">
 <img src="Bilder/Top_2.jpg" width="40%">
@@ -109,12 +121,15 @@ Your browser does not support the video tag.
 
 ## Zweites Top
 
+Bei diesem Top habe ich auf die Tragekomfort geachtet. Den Ausschnitt habe ich mit einem Muster verziert, sodass er nicht so tief ist. Das Top ist ein perfektes Sommertop, und ich habe es auch schon einmal getragen.
+
 <img src="Bilder/Top2_1.jpg" width="40%">
 <img src="Bilder/Top2_2.jpg" width="40%">
 <img src="Bilder/Top2_3.jpg" width="40%">
 
 ## Blumentasche und Applikationen
 
+Ich habe wieder verschiedene Muster aus dem Blumenbuch ausprobiert. Eines davon hat mir so gut gefallen, dass ich daraus eine Tasche gemacht habe.
 
 <img src="Bilder/GrüneBlume_3.jpg" width="40%">
 <img src="Bilder/GrüneBlume_4.jpg" width="40%">
@@ -125,6 +140,8 @@ Your browser does not support the video tag.
 
 ## Granny-Square Tasche für mich
 
+<a href="https://www.mjsoffthehookdesigns.com/caribbean-beach-bag-free-granny-square-bag-crochet-pattern/" target="_blank">Tutorial für die Granny-Square Taschen</a> 
+
 <img src="Bilder/GrannyTasche_6.jpg" width="40%">
 <img src="Bilder/GrannyTasche_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche_2.jpg" width="40%">
@@ -134,6 +151,10 @@ Your browser does not support the video tag.
 
 ## Scrap-Yarn Täschchen
 
+Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine andere Konstruktion für ein Täschchen zu bekommen. Ich habe in Runden gearbeitet und die Laschen direkt in Reihen angehäkelt. Außerdem habe ich neue Muster ausprobiert, weil ich ein neues Buch bekommen habe. Ich hatte mir das Buch gewünscht, weil es keine Anleitungen für ganze Projekte enthält, sondern nur Muster, die ich selbst in jedes Projekt integrieren kann. Ich sehe darin einen großen Mehrwert.
+
+<img src="Bilder/Buch_2.jpg" width="40%">
+
 <img src="Bilder/Scrap_1.jpg" width="40%">
 <img src="Bilder/Scrap_2.jpg" width="40%">
 <img src="Bilder/Scrap_3.jpg" width="40%">
@@ -141,6 +162,8 @@ Your browser does not support the video tag.
 <img src="Bilder/Scrap_5.jpg" width="40%">
 
 ## Granny-Square Tasche für Michelle
+
+Die Tasche wurde genauso konstruiert wie meine Granny-Square-Tasche; der einzige Unterschied ist, dass ich zwei Reihen mehr gemacht habe, wodurch sie größer wurde. Ich nähe immer in die Taschen eine Fütterung ein, damit sie formstabil bleiben.
 
 <img src="Bilder/GrannyTasche2_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche2_2.jpg" width="40%">
@@ -151,9 +174,13 @@ Your browser does not support the video tag.
 
 ## Haube Hellbraun und Dunkelbraun
 
-<img src="Bilder/Haube_1.jpg" width="40%">
+Ich habe wieder ein Buch zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein Buch über das Haubenhäkeln.
+
+<img src="Bilder/Buch_3.jpg" width="40%">
+
 <img src="Bilder/Haube_2.jpg" width="40%">
 <img src="Bilder/Haube_3.jpg" width="40%">
+<img src="Bilder/Haube_1.jpg" width="40%">
 <img src="Bilder/Haube_4.jpg" width="40%">
 <img src="Bilder/Haube_5.jpg" width="40%">
 <img src="Bilder/Haube_6.jpg" width="40%">
@@ -165,6 +192,8 @@ Your browser does not support the video tag.
 Finale Fotos der Hauben -->
 
 ## Blau-Weiß Fanschal
+
+<!-- TODO hier weiter -->
 
 <img src="Bilder/BW_7.jpg" width="40%">
 <img src="Bilder/BW_6.jpg" width="40%">
@@ -223,6 +252,8 @@ Your browser does not support the video tag.
 
 ## Mosaik-Crochet Täschchen
 
+<a href="https://www.mjsoffthehookdesigns.com/caribbean-beach-bag-free-granny-square-bag-crochet-pattern/" target="_blank">Tutorial für die Granny-Square Taschen</a> 
+
 <img src="Bilder/Mosaik_1.jpg" width="40%">
 <img src="Bilder/Mosaik_2.jpg" width="40%">
 <img src="Bilder/Mosaik_3.jpg" width="40%">
@@ -234,6 +265,8 @@ Your browser does not support the video tag.
 
 ## Kuschelsocken
 
+<img src="Bilder/Buch_4.jpg" width="40%">
+
 <img src="Bilder/Socke_1.jpg" width="40%">
 <img src="Bilder/Socke_2.jpg" width="40%">
 <img src="Bilder/Socke_3.jpg" width="40%">
@@ -241,10 +274,7 @@ Your browser does not support the video tag.
 <img src="Bilder/Socke_5.jpg" width="40%">
 <img src="Bilder/Socke_6.jpg" width="40%">
 
-
-<!-- Vom Buch -->
-
-## Granny-Square Tasche für Mama (In Arbeit)
+## Granny-Square Tasche für Mama
 
 <img src="Bilder/GrannyTasche3_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche3_2.jpg" width="40%">
