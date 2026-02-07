@@ -255,7 +255,7 @@ Your browser does not support the video tag.
 ## Schal für Deko-Hasen
 
 <img src="Bilder/Hasen_1.jpg" width="40%">
-<img src="Bilder/Hasen_1.jpg" width="40%">
+<img src="Bilder/Hasen_2.jpg" width="40%">
 
 
 ## Kleine Kopfbedeckungen für Smothies (In Arbeit)
