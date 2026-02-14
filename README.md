@@ -18,7 +18,7 @@ Häkel Blog
   - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
   - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
   - [Stirnbänder](#stirnbänder)
-  - [Yarn-Winder](#yarn-winder)
+  - [Yarn-Winder oder Woll-Wickler](#yarn-winder-oder-woll-wickler)
 - [2026](#2026)
   - [Erste Weste](#erste-weste)
   - [Dunkelblaue Haube](#dunkelblaue-haube)
@@ -47,7 +47,7 @@ Meine Schwester hat wieder aufgehört zu häkeln, da die Häkelnadel aus dem Set
 
 ## Häkeltäschchen
 
-Die Konstruktion ist sehr simpel: Es wird ein Rechteck gehäkelt, das dann gedrittelt wird. Zwei Drittel bilden die Tasche, ein Drittel die Lasche. Ich habe die Tasche gefüttert und an die Lasche Luftmaschen angehäkelt, um sie mit einem Knopf verschließen zu können.
+Ich habe mir ein Täschchen für mein Häkelzeug gemacht. Die Konstruktion ist sehr simpel: Es wird ein Rechteck gehäkelt, das dann gedrittelt wird. Zwei Drittel bilden die Tasche, ein Drittel die Lasche. Ich habe die Tasche gefüttert und an die Lasche Luftmaschen angehäkelt, um sie mit einem Knopf verschließen zu können.
 
 <img src="Bilder/Häkeltasche_1.jpg" width="40%">
 <img src="Bilder/Häkeltasche_2.jpg" width="40%">
@@ -84,8 +84,7 @@ Durch dieses Projekt lernte ich, Charts zu lesen. Leider finde ich das Foto dazu
 
 Ich bin sehr stolz ein Buch fürs Häkeln zu haben so bin ich nicht auf das Internet für Anleitungen angewiesen. Es hat ein paar Versuche gebraucht, bis ich das Blumenmuster richtig hinbekommen habe, aber dann hat es gut funktioniert. Meine Mama hat sich die Blumen anschließend auf Kleider genäht.
 
-<img src="Bilder/Buch_1.jpg" width="40%">
-
+<!-- TODO Link zum Buch -->
 
 <img src="Bilder/Blumen_1.jpg" width="40%">
 <img src="Bilder/Blumen_2.jpg" width="40%">
@@ -131,6 +130,8 @@ Bei diesem Top habe ich auf die Tragekomfort geachtet. Den Ausschnitt habe ich m
 
 Ich habe wieder verschiedene Muster aus dem Blumenbuch ausprobiert. Eines davon hat mir so gut gefallen, dass ich daraus eine Tasche gemacht habe.
 
+<!-- TODO link zum Buch -->
+
 <img src="Bilder/GrüneBlume_3.jpg" width="40%">
 <img src="Bilder/GrüneBlume_4.jpg" width="40%">
 <img src="Bilder/GrüneBlume_1.jpg" width="40%">
@@ -153,7 +154,7 @@ Ich habe wieder verschiedene Muster aus dem Blumenbuch ausprobiert. Eines davon 
 
 Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine andere Konstruktion für ein Täschchen zu bekommen. Ich habe in Runden gearbeitet und die Laschen direkt in Reihen angehäkelt. Außerdem habe ich neue Muster ausprobiert, weil ich ein neues Buch bekommen habe. Ich hatte mir das Buch gewünscht, weil es keine Anleitungen für ganze Projekte enthält, sondern nur Muster, die ich selbst in jedes Projekt integrieren kann. Ich sehe darin einen großen Mehrwert.
 
-<img src="Bilder/Buch_2.jpg" width="40%">
+<!-- TODO Link zum Buch -->
 
 <img src="Bilder/Scrap_1.jpg" width="40%">
 <img src="Bilder/Scrap_2.jpg" width="40%">
@@ -163,7 +164,7 @@ Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine ander
 
 ## Granny-Square Tasche für Michelle
 
-Die Tasche wurde genauso konstruiert wie meine Granny-Square-Tasche; der einzige Unterschied ist, dass ich zwei Reihen mehr gemacht habe, wodurch sie größer wurde. Ich nähe immer in die Taschen eine Fütterung ein, damit sie formstabil bleiben.
+Die Tasche wurde genauso konstruiert wie meine Granny-Square-Tasche; der einzige Unterschied ist, dass ich zwei Reihen mehr gemacht habe, wodurch sie größer wurde. Diese Tasche ist eher für den Alltagsgebrauch, weil viel mehr rein passt. Ich nähe immer in die Taschen eine Fütterung ein, damit sie formstabil bleiben.
 
 <img src="Bilder/GrannyTasche2_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche2_2.jpg" width="40%">
@@ -174,9 +175,9 @@ Die Tasche wurde genauso konstruiert wie meine Granny-Square-Tasche; der einzige
 
 ## Haube Hellbraun und Dunkelbraun
 
-Ich habe wieder ein Buch zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein Buch über das Haubenhäkeln.
+Ich habe wieder ein Buch zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein Buch über das Haubenhäkeln. Ich habe es gleich ausprobiert und eine Hellbraune und eine dunkelbraune Haube gemacht.
 
-<img src="Bilder/Buch_3.jpg" width="40%">
+<!-- TODO link zum Buch -->
 
 <img src="Bilder/Haube_2.jpg" width="40%">
 <img src="Bilder/Haube_3.jpg" width="40%">
@@ -189,11 +190,14 @@ Ich habe wieder ein Buch zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein 
 
 <!-- <img src="Bilder/Haube_8.jpg" width="40%"> 
 <img src="Bilder/Haube_9.jpg" width="40%">
-Finale Fotos der Hauben -->
+TODO Finale Fotos der Hauben -->
 
 ## Blau-Weiß Fanschal
 
-<!-- TODO hier weiter -->
+Der Schal ist ein Geschenk für einen Blau-Weiß-Fan. Ich habe das erste Mal tapestry-Häkeln probiert. Ich habe mir aus dem Logo ein Grid erstellen lassen mit <a href="https://www.stitchfiddle.com/en
+" target="_blank">Stitchfiddle</a> 
+
+<!-- TODO Grid herzeigen -->
 
 <img src="Bilder/BW_7.jpg" width="40%">
 <img src="Bilder/BW_6.jpg" width="40%">
@@ -205,6 +209,10 @@ Finale Fotos der Hauben -->
 
 ## Stirnbänder
 
+<!-- TODO wo ist das braune Stirnband -->
+
+Das letzte Projekt, das ich 2026 fertiggestellt habe, waren vier Stirnbänder, die ich zu Weihnachten verschenkt habe. Ich habe einen Fleece-Stoff eingenäht, damit sie wärmer sind.
+
 <img src="Bilder/SB_1.jpg" width="40%">
 <img src="Bilder/SB_2.jpg" width="40%">
 <img src="Bilder/SB_4.jpg" width="40%">
@@ -214,7 +222,7 @@ Finale Fotos der Hauben -->
 <img src="Bilder/SB_7.jpg" width="40%">
 <img src="Bilder/SB_8.jpg" width="40%">
 
-## Yarn-Winder
+## Yarn-Winder oder Woll-Wickler
 
 <img src="Bilder/Winder_1.jpg" width="40%">
 
@@ -222,6 +230,8 @@ Finale Fotos der Hauben -->
 # 2026
 
 ## Erste Weste
+
+Die Weste wird nach der Methode Hexagon-Cardigan gemacht, bei der zwei Sechsecke gehäkelt werden und diese dann an den Ärmeln und der Brust verlängert werden. Die türkisfarbene Wolle ist mir ausgegangen, deshalb musste ich improvisieren. Ich habe mich für drei Farben entschieden, mit denen ich die Weste fertig gehäkelt habe.
 
 <img src="Bilder/Weste_1.jpg" width="40%">
 <img src="Bilder/Weste_5.jpg" width="40%">
@@ -244,15 +254,17 @@ Your browser does not support the video tag.
 
 ## Dunkelblaue Haube
 
+Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber nach vielen Versuchen hat es endlich geklappt. Ich habe ein Muster aus dem Haubenbuch genommen. Es war leider zu löchrig, aber ich habe die Konstruktion so beibehalten. Man häkelt einen langen Streifen wie ein Stirnband, macht ihn zusammen und arbeitet dann in Runden abnehmend, bis keine Maschen mehr übrig sind.
+
 <img src="Bilder/Haube2_1.jpg" width="40%">
 
-
-<!-- Fotos von Haube machen -->
+<!-- TODO Link zum Buch -->
+<!-- TODO Fotos von Haube machen -->
 
 
 ## Mosaik-Crochet Täschchen
 
-<a href="https://www.mjsoffthehookdesigns.com/caribbean-beach-bag-free-granny-square-bag-crochet-pattern/" target="_blank">Tutorial für die Granny-Square Taschen</a> 
+<a href="https://www.youtube.com/watch?v=DdJ5XM7pNVE&list=PLvzmlZLfxxm-8zhLbdR3omQJ-mQUhQqb7&index=8" target="_blank">Tutorial für das Mosaik-Muster von CrochetByJessie</a> 
 
 <img src="Bilder/Mosaik_1.jpg" width="40%">
 <img src="Bilder/Mosaik_2.jpg" width="40%">
@@ -261,11 +273,9 @@ Your browser does not support the video tag.
 <img src="Bilder/Mosaik_5.jpg" width="40%">
 <img src="Bilder/Mosaik_6.jpg" width="40%">
 
-<!-- Von CrochetbyJessie -->
-
 ## Kuschelsocken
 
-<img src="Bilder/Buch_4.jpg" width="40%">
+<!-- TODO Link zum Buch -->
 
 <img src="Bilder/Socke_1.jpg" width="40%">
 <img src="Bilder/Socke_2.jpg" width="40%">
