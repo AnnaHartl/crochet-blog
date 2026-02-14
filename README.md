@@ -82,9 +82,7 @@ Durch dieses Projekt lernte ich, Charts zu lesen. Leider finde ich das Foto dazu
 
 ## Blumen Applikationen
 
-Ich bin sehr stolz ein Buch fürs Häkeln zu haben so bin ich nicht auf das Internet für Anleitungen angewiesen. Es hat ein paar Versuche gebraucht, bis ich das Blumenmuster richtig hinbekommen habe, aber dann hat es gut funktioniert. Meine Mama hat sich die Blumen anschließend auf Kleider genäht.
-
-<!-- TODO Link zum Buch -->
+Ich bin sehr stolz ein <a href="https://annahartl.github.io/crochet-blog/books#blumenmuster" target="_blank">Buch</a>  fürs Häkeln zu haben so bin ich nicht auf das Internet für Anleitungen angewiesen. Es hat ein paar Versuche gebraucht, bis ich das Blumenmuster richtig hinbekommen habe, aber dann hat es gut funktioniert. Meine Mama hat sich die Blumen anschließend auf Kleider genäht.
 
 <img src="Bilder/Blumen_1.jpg" width="40%">
 <img src="Bilder/Blumen_2.jpg" width="40%">
@@ -128,9 +126,7 @@ Bei diesem Top habe ich auf die Tragekomfort geachtet. Den Ausschnitt habe ich m
 
 ## Blumentasche und Applikationen
 
-Ich habe wieder verschiedene Muster aus dem Blumenbuch ausprobiert. Eines davon hat mir so gut gefallen, dass ich daraus eine Tasche gemacht habe.
-
-<!-- TODO link zum Buch -->
+Ich habe wieder verschiedene Muster aus dem <a href="https://annahartl.github.io/crochet-blog/books#blumenmuster" target="_blank">Blumenbuch</a> ausprobiert. Eines davon hat mir so gut gefallen, dass ich daraus eine Tasche gemacht habe.
 
 <img src="Bilder/GrüneBlume_3.jpg" width="40%">
 <img src="Bilder/GrüneBlume_4.jpg" width="40%">
@@ -152,9 +148,7 @@ Ich habe wieder verschiedene Muster aus dem Blumenbuch ausprobiert. Eines davon 
 
 ## Scrap-Yarn Täschchen
 
-Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine andere Konstruktion für ein Täschchen zu bekommen. Ich habe in Runden gearbeitet und die Laschen direkt in Reihen angehäkelt. Außerdem habe ich neue Muster ausprobiert, weil ich ein neues Buch bekommen habe. Ich hatte mir das Buch gewünscht, weil es keine Anleitungen für ganze Projekte enthält, sondern nur Muster, die ich selbst in jedes Projekt integrieren kann. Ich sehe darin einen großen Mehrwert.
-
-<!-- TODO Link zum Buch -->
+Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine andere Konstruktion für ein Täschchen zu bekommen. Ich habe in Runden gearbeitet und die Laschen direkt in Reihen angehäkelt. Außerdem habe ich neue Muster ausprobiert, weil ich ein neues <a href="https://annahartl.github.io/crochet-blog/books#muster" target="_blank">Buch</a> bekommen habe. Ich hatte mir das Buch gewünscht, weil es keine Anleitungen für ganze Projekte enthält, sondern nur Muster, die ich selbst in jedes Projekt integrieren kann. Ich sehe darin einen großen Mehrwert.
 
 <img src="Bilder/Scrap_1.jpg" width="40%">
 <img src="Bilder/Scrap_2.jpg" width="40%">
@@ -175,9 +169,7 @@ Die Tasche wurde genauso konstruiert wie meine Granny-Square-Tasche; der einzige
 
 ## Haube Hellbraun und Dunkelbraun
 
-Ich habe wieder ein Buch zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein Buch über das Haubenhäkeln. Ich habe es gleich ausprobiert und eine Hellbraune und eine dunkelbraune Haube gemacht.
-
-<!-- TODO link zum Buch -->
+Ich habe wieder ein <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_blank">Buch</a> zu meiner Sammlung hinzufügen dürfen. Dieses Mal ein Buch über das Haubenhäkeln. Ich habe es gleich ausprobiert und eine Hellbraune und eine dunkelbraune Haube gemacht.
 
 <img src="Bilder/Haube_2.jpg" width="40%">
 <img src="Bilder/Haube_3.jpg" width="40%">
@@ -254,11 +246,10 @@ Your browser does not support the video tag.
 
 ## Dunkelblaue Haube
 
-Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber nach vielen Versuchen hat es endlich geklappt. Ich habe ein Muster aus dem Haubenbuch genommen. Es war leider zu löchrig, aber ich habe die Konstruktion so beibehalten. Man häkelt einen langen Streifen wie ein Stirnband, macht ihn zusammen und arbeitet dann in Runden abnehmend, bis keine Maschen mehr übrig sind.
+Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber nach vielen Versuchen hat es endlich geklappt. Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_blank">Haubenbuch</a> genommen. Es war leider zu löchrig, aber ich habe die Konstruktion so beibehalten. Man häkelt einen langen Streifen wie ein Stirnband, macht ihn zusammen und arbeitet dann in Runden abnehmend, bis keine Maschen mehr übrig sind.
 
 <img src="Bilder/Haube2_1.jpg" width="40%">
 
-<!-- TODO Link zum Buch -->
 <!-- TODO Fotos von Haube machen -->
 
 
