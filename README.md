@@ -137,6 +137,8 @@ Ich habe wieder verschiedene Muster aus dem <a href="https://annahartl.github.io
 
 ## Granny-Square Tasche für mich
 
+Ich habe eine Tasche für mich gemacht. Sie ist eher klein ausgefallen also eine Fortgeh-Tasche. Die Konstruktion ist simpel: Drei Quadrate zusammen gehäkelt. 
+
 <a href="https://www.mjsoffthehookdesigns.com/caribbean-beach-bag-free-granny-square-bag-crochet-pattern/" target="_blank">Tutorial für die Granny-Square Taschen</a> 
 
 <img src="Bilder/GrannyTasche_6.jpg" width="40%">
@@ -186,8 +188,7 @@ TODO Finale Fotos der Hauben -->
 
 ## Blau-Weiß Fanschal
 
-Der Schal ist ein Geschenk für einen Blau-Weiß-Fan. Ich habe das erste Mal tapestry-Häkeln probiert. Ich habe mir aus dem Logo ein Grid erstellen lassen mit <a href="https://www.stitchfiddle.com/en
-" target="_blank">Stitchfiddle</a> 
+Der Schal ist ein Geschenk für einen Blau-Weiß-Fan. Ich habe das erste Mal tapestry-Häkeln probiert. Ich habe mir aus dem Logo ein Grid erstellen lassen mit <a href="https://www.stitchfiddle.com/en" target="_blank">Stitchfiddle</a>.
 
 <!-- TODO Grid herzeigen -->
 
@@ -255,6 +256,8 @@ Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber na
 
 ## Mosaik-Crochet Täschchen
 
+Ich habe eine neue Technik ausprobiert: Mosaik-Häkeln. Ich habe aus Baumwollgarn diese wunderbaren Taschen gemacht. Ich wollte mir ein neues Häkeltäschchen machen wo ich mein Häkelzeug aufbewahre. Ich wollte damit auch anderen Zeigen das mein Nivuo stark gestiegen ist.
+
 <a href="https://www.youtube.com/watch?v=DdJ5XM7pNVE&list=PLvzmlZLfxxm-8zhLbdR3omQJ-mQUhQqb7&index=8" target="_blank">Tutorial für das Mosaik-Muster von CrochetByJessie</a> 
 
 <img src="Bilder/Mosaik_1.jpg" width="40%">
@@ -266,7 +269,7 @@ Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber na
 
 ## Kuschelsocken
 
-<!-- TODO Link zum Buch -->
+Ich habe ein <a href="https://annahartl.github.io/crochet-blog/books#sockenbuch" target="_self">Sockenbuch</a> zu Weihnachten bekommen. Ich habe es gleich ausprobiert. Ich habe Kuschelsocken gemacht und hierfür gut meine Acrylwolle verwenden können.
 
 <img src="Bilder/Socke_1.jpg" width="40%">
 <img src="Bilder/Socke_2.jpg" width="40%">
@@ -277,6 +280,14 @@ Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber na
 
 ## Granny-Square Tasche für Mama
 
+Für die dritte Version der Granny-Square Tasche habe ich eine Änderung vorgenommen. Ich habe den Hänkel gleich angehähelt und nicht wie bei den vorigen Modellen seperat gemacht. So ist der Anschluss zum Taschenkörper nahtlos. Die Farben der Tasche sind auch ganz anders als die anderen die eher in der Farbfamilie blieben, meine Mama hat sich kontrastfarben ausgesucht.
+
+Hier die Links zu den anderen Taschen:
+
+<a href="https://annahartl.github.io/crochet-blog/#granny-square-tasche-f%C3%BCr-mich" target="_self">Model 1: Blau</a>
+
+<a href="https://annahartl.github.io/crochet-blog/#granny-square-tasche-f%C3%BCr-michelle" target="_self">Model 2: Braun/Schwarz</a>
+
 <img src="Bilder/GrannyTasche3_1.jpg" width="40%">
 <img src="Bilder/GrannyTasche3_2.jpg" width="40%">
 <img src="Bilder/GrannyTasche3_3.jpg" width="40%">
@@ -285,12 +296,15 @@ Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber na
 
 ## Schal für Deko-Hasen
 
+Um ein wenig den Frühling einzuleuten habe ich deko-Hasen dekoriert. Da es aber noch kalt draußen ist hab ich ihnen einen Schal verpasst. Aus den Wollresten der Granny-Square Tasche. 
+
 <img src="Bilder/Hasen_1.jpg" width="40%">
 <img src="Bilder/Hasen_2.jpg" width="40%">
 
 
 ## Kleine Kopfbedeckungen für Smothies (In Arbeit)
 
+Ich mache mit bei der <a href="https://www.innocentdrinks.at/dasgrossestricken" target="_blank">Aktion von Innocent</a> . Ich häkkle Mützen und Hüte in Miniformat, die dann die Smothies im Supermarkt tragen werden.
 
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
