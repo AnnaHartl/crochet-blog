@@ -204,6 +204,8 @@ Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/bo
 <a href="https://www.allaboutami.com/how-to-crochet-a-twist-headband/
 " target="_blank">Tutorial für den Twist</a>
 
+<img src="Bilder//SB_10.jpg" width="40%">
+<img src="Bilder//SB_11.jpg" width="40%">
 
 
 ## Blau-Weiß Fanschal
@@ -222,8 +224,6 @@ Der Schal ist ein Geschenk für einen Blau-Weiß-Fan. Ich habe das erste Mal tap
 
 ## Stirnbänder
 
-<!-- TODO wo ist das braune Stirnband -->
-
 Das letzte Projekt, das ich 2026 fertiggestellt habe, waren vier Stirnbänder, die ich zu Weihnachten verschenkt habe. Ich habe einen Fleece-Stoff eingenäht, damit sie wärmer sind.
 
 <img src="Bilder/SB_1.jpg" width="40%">
@@ -234,6 +234,8 @@ Das letzte Projekt, das ich 2026 fertiggestellt habe, waren vier Stirnbänder, d
 <img src="Bilder/SB_6.jpg" width="40%">
 <img src="Bilder/SB_7.jpg" width="40%">
 <img src="Bilder/SB_8.jpg" width="40%">
+<img src="Bilder/SB_9.jpg" width="40%">
+
 
 ## Yarn-Winder oder Woll-Wickler
 
