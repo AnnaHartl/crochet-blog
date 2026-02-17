@@ -1,4 +1,4 @@
-Häkel Blog
+Häkelblog
 
 - [2025](#2025)
   - [Pinguin](#pinguin)
@@ -8,13 +8,13 @@ Häkel Blog
   - [Blumenanhänger](#blumenanhänger)
   - [Tote-Bag](#tote-bag)
   - [Blumen Applikationen](#blumen-applikationen)
-  - [Taschen mit Schnur](#taschen-mit-schnur)
+  - [Taschen mit Ziehschnur](#taschen-mit-ziehschnur)
   - [Fisch](#fisch)
   - [Erstes Top](#erstes-top)
   - [Zweites Top](#zweites-top)
   - [Blumentasche und Applikationen](#blumentasche-und-applikationen)
   - [Granny-Square Tasche für mich](#granny-square-tasche-für-mich)
-  - [Scrap-Yarn Täschchen](#scrap-yarn-täschchen)
+  - [Scrap-Yarn-Täschchen](#scrap-yarn-täschchen)
   - [Granny-Square Tasche für Michelle](#granny-square-tasche-für-michelle)
   - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
   - [Erstes Stirnband](#erstes-stirnband)
@@ -28,7 +28,7 @@ Häkel Blog
   - [Kuschelsocken](#kuschelsocken)
   - [Granny-Square-Tasche für Mama](#granny-square-tasche-für-mama)
   - [Schal für Deko-Hasen](#schal-für-deko-hasen)
-  - [Kleine Kopfbedeckungen für Smothies (In Arbeit)](#kleine-kopfbedeckungen-für-smothies-in-arbeit)
+  - [Kleine Kopfbedeckungen für Smoothies (In Arbeit)](#kleine-kopfbedeckungen-für-smoothies-in-arbeit)
 
 <link rel="stylesheet" href="stylesheets/main.css"> 
 
@@ -94,7 +94,7 @@ Ich bin sehr stolz ein <a href="https://annahartl.github.io/crochet-blog/books#b
 <img src="Bilder/Blumen_5.jpg" width="40%">
 <img src="Bilder/Blumen_6.jpg" width="40%">
 
-## Taschen mit Schnur
+## Taschen mit Ziehschnur
 
 Hier kann ich das ursprüngliche Tutorial leider nicht mehr finden. Das Tutorial, das ich jetzt verlinke, verwendet aber die gleiche Technik. Ein weiterer Grund, warum es besser ist, ein Buch als Anleitung zu haben, denn das wird nicht einfach gelöscht.
 
@@ -107,11 +107,10 @@ Hier kann ich das ursprüngliche Tutorial leider nicht mehr finden. Das Tutorial
 
 ## Fisch
 
-Den Fisch war ein Geschenk für einen Fischer. 
+Den Fisch war ein Geschenk für einen Fischer.
 
 <img src="Bilder/Fisch_1.jpg" width="40%">
 <img src="Bilder/Fisch_2.jpg" width="40%">
-
 
 ## Erstes Top
 
@@ -159,7 +158,7 @@ Ich habe eine Tasche für mich gemacht. Sie ist eher klein ausgefallen also eine
 <img src="Bilder/GrannyTasche_4.jpg" width="40%">
 <img src="Bilder/GrannyTasche_5.jpg" width="40%">
 
-## Scrap-Yarn Täschchen
+## Scrap-Yarn-Täschchen
 
 Ich habe das Tutorial für die Taschen mit Ziehschnur abgewandelt, um eine andere Konstruktion für ein Täschchen zu bekommen. Ich habe in Runden gearbeitet und die Laschen direkt in Reihen angehäkelt. Außerdem habe ich neue Muster ausprobiert, weil ich ein neues <a href="https://annahartl.github.io/crochet-blog/books#muster" target="_self">Buch</a> bekommen habe. Ich hatte mir das Buch gewünscht, weil es keine Anleitungen für ganze Projekte enthält, sondern nur Muster, die ich selbst in jedes Projekt integrieren kann. Ich sehe darin einen großen Mehrwert.
 
@@ -322,8 +321,7 @@ Um ein wenig den Frühling einzuläuten, habe ich Deko-Hasen aufgestellt. Da es 
 <img src="Bilder/Hasen_1.jpg" width="40%">
 <img src="Bilder/Hasen_2.jpg" width="40%">
 
-
-## Kleine Kopfbedeckungen für Smothies (In Arbeit)
+## Kleine Kopfbedeckungen für Smoothies (In Arbeit)
 
 Ich mache mit bei der <a href="https://www.innocentdrinks.at/dasgrossestricken" target="_blank">Aktion von Innocent</a>. Ich häkle Mützen und Hüte im Miniformat, die dann die Smoothies im Supermarkt tragen werden. Ich habe Hauben aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_self">Haubenbuch</a> auprobiert.
 
