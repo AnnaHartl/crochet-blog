@@ -24,7 +24,7 @@ Häkel Blog
   - [Dunkelblaue Haube](#dunkelblaue-haube)
   - [Mosaik-Crochet Täschchen](#mosaik-crochet-täschchen)
   - [Kuschelsocken](#kuschelsocken)
-  - [Granny-Square Tasche für Mama](#granny-square-tasche-für-mama)
+  - [Granny-Square-Tasche für Mama](#granny-square-tasche-für-mama)
   - [Schal für Deko-Hasen](#schal-für-deko-hasen)
   - [Kleine Kopfbedeckungen für Smothies (In Arbeit)](#kleine-kopfbedeckungen-für-smothies-in-arbeit)
 
@@ -219,12 +219,11 @@ Das letzte Projekt, das ich 2026 fertiggestellt habe, waren vier Stirnbänder, d
 
 <img src="Bilder/Winder_1.jpg" width="40%">
 
-
 # 2026
 
 ## Erste Weste
 
-Die Weste wird nach der Methode Hexagon-Cardigan gemacht, bei der zwei Sechsecke gehäkelt werden und diese dann an den Ärmeln und der Brust verlängert werden. Die türkisfarbene Wolle ist mir ausgegangen, deshalb musste ich improvisieren. Ich habe mich für drei Farben entschieden, mit denen ich die Weste fertig gehäkelt habe.
+Die Weste wird nach der Methode Hexagon-Cardigan gemacht, bei der zwei Sechsecke gehäkelt werden und diese dann an den Ärmeln und der Brust verlängert werden. Die türkisfarbene Wolle ist mir ausgegangen, deshalb musste ich improvisieren. Ich habe mich für drei Farben entschieden, mit denen ich die Weste fertiggehäkelt habe.
 
 <img src="Bilder/Weste_1.jpg" width="40%">
 <img src="Bilder/Weste_5.jpg" width="40%">
@@ -247,7 +246,7 @@ Your browser does not support the video tag.
 
 ## Dunkelblaue Haube
 
-Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber nach vielen Versuchen hat es endlich geklappt. Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_self">Haubenbuch</a> genommen. Es war leider zu löchrig, aber ich habe die Konstruktion so beibehalten. Man häkelt einen langen Streifen wie ein Stirnband, macht ihn zusammen und arbeitet dann in Runden abnehmend, bis keine Maschen mehr übrig sind.
+Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz gepasst hat. Aber nach vielen Versuchen hat es endlich geklappt. Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_self">Haubenbuch</a> genommen. Es war leider zu löchrig, aber ich habe die Konstruktion so beibehalten. Man häkelt einen langen Streifen wie ein Stirnband, macht ihn zusammen und arbeitet dann in Runden abnehmend, bis keine Maschen mehr übrig sind.
 
 <img src="Bilder/Haube2_1.jpg" width="40%">
 
@@ -256,7 +255,7 @@ Diese Haube wurde so oft wieder aufgetrennt, weil sie nicht ganz passte. Aber na
 
 ## Mosaik-Crochet Täschchen
 
-Ich habe eine neue Technik ausprobiert: Mosaik-Häkeln. Ich habe aus Baumwollgarn diese wunderbaren Taschen gemacht. Ich wollte mir ein neues Häkeltäschchen machen wo ich mein Häkelzeug aufbewahre. Ich wollte damit auch anderen Zeigen das mein Nivuo stark gestiegen ist.
+Ich habe eine neue Technik ausprobiert: Ich habe aus Baumwollgarn mit der Methode des Mosaik-Häkelns diese wunderbaren Taschen gemacht. Ich wollte mir ein neues Häkeltäschchen anfertigen, in dem ich mein Häkelzeug aufbewahre. Gleichzeitig wollte ich damit zeigen, dass mein Niveau stark gestiegen ist.
 
 <a href="https://www.youtube.com/watch?v=DdJ5XM7pNVE&list=PLvzmlZLfxxm-8zhLbdR3omQJ-mQUhQqb7&index=8" target="_blank">Tutorial für das Mosaik-Muster von CrochetByJessie</a> 
 
@@ -269,7 +268,7 @@ Ich habe eine neue Technik ausprobiert: Mosaik-Häkeln. Ich habe aus Baumwollgar
 
 ## Kuschelsocken
 
-Ich habe ein <a href="https://annahartl.github.io/crochet-blog/books#sockenbuch" target="_self">Sockenbuch</a> zu Weihnachten bekommen. Ich habe es gleich ausprobiert. Ich habe Kuschelsocken gemacht und hierfür gut meine Acrylwolle verwenden können.
+Ich habe ein <a href="https://annahartl.github.io/crochet-blog/books#sockenbuch" target="_self">Sockenbuch</a> zu Weihnachten bekommen. Ich habe es gleich ausprobiert. Ich habe Kuschelsocken gemacht und konnte dafür gut meine Acrylwolle verwenden.
 
 <img src="Bilder/Socke_1.jpg" width="40%">
 <img src="Bilder/Socke_2.jpg" width="40%">
@@ -278,9 +277,9 @@ Ich habe ein <a href="https://annahartl.github.io/crochet-blog/books#sockenbuch"
 <img src="Bilder/Socke_5.jpg" width="40%">
 <img src="Bilder/Socke_6.jpg" width="40%">
 
-## Granny-Square Tasche für Mama
+## Granny-Square-Tasche für Mama
 
-Für die dritte Version der Granny-Square Tasche habe ich eine Änderung vorgenommen. Ich habe den Hänkel gleich angehähelt und nicht wie bei den vorigen Modellen seperat gemacht. So ist der Anschluss zum Taschenkörper nahtlos. Die Farben der Tasche sind auch ganz anders als die anderen die eher in der Farbfamilie blieben, meine Mama hat sich kontrastfarben ausgesucht.
+Für die dritte Version der Granny-Square-Tasche habe ich eine Änderung vorgenommen: Ich habe den Henkel direkt angehäkelt und nicht, wie bei den vorherigen Modellen, separat gemacht. So ist der Anschluss zum Taschenkörper nahtlos. Die Farben der Tasche sind auch ganz anders als bei den anderen Modellen, die eher in derselben Farbfamilie blieben, meine Mama hat sich diesmal Kontrastfarben ausgesucht.
 
 Hier die Links zu den anderen Taschen:
 
@@ -296,7 +295,7 @@ Hier die Links zu den anderen Taschen:
 
 ## Schal für Deko-Hasen
 
-Um ein wenig den Frühling einzuleuten habe ich deko-Hasen dekoriert. Da es aber noch kalt draußen ist hab ich ihnen einen Schal verpasst. Aus den Wollresten der Granny-Square Tasche. 
+Um ein wenig den Frühling einzuläuten, habe ich Deko-Hasen aufgestellt. Da es aber noch kalt draußen ist, habe ich ihnen einen Schal verpasst, aus den Wollresten der Granny-Square-Tasche.
 
 <img src="Bilder/Hasen_1.jpg" width="40%">
 <img src="Bilder/Hasen_2.jpg" width="40%">
@@ -304,7 +303,8 @@ Um ein wenig den Frühling einzuleuten habe ich deko-Hasen dekoriert. Da es aber
 
 ## Kleine Kopfbedeckungen für Smothies (In Arbeit)
 
-Ich mache mit bei der <a href="https://www.innocentdrinks.at/dasgrossestricken" target="_blank">Aktion von Innocent</a> . Ich häkkle Mützen und Hüte in Miniformat, die dann die Smothies im Supermarkt tragen werden.
+Ich mache mit bei der <a href="https://www.innocentdrinks.at/dasgrossestricken" target="_blank">Aktion von Innocent</a>. Ich häkle Mützen und Hüte im Miniformat, die dann die Smoothies im Supermarkt tragen werden. Ich habe Hauben aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_self">Haubenbuch</a> auprobiert.
 
+<!-- TODO Rechtschreibung prüfen -->
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
