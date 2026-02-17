@@ -9,6 +9,7 @@ Häkel Blog
   - [Tote-Bag](#tote-bag)
   - [Blumen Applikationen](#blumen-applikationen)
   - [Taschen mit Schnur](#taschen-mit-schnur)
+  - [Fisch](#fisch)
   - [Erstes Top](#erstes-top)
   - [Zweites Top](#zweites-top)
   - [Blumentasche und Applikationen](#blumentasche-und-applikationen)
@@ -16,6 +17,7 @@ Häkel Blog
   - [Scrap-Yarn Täschchen](#scrap-yarn-täschchen)
   - [Granny-Square Tasche für Michelle](#granny-square-tasche-für-michelle)
   - [Haube Hellbraun und Dunkelbraun](#haube-hellbraun-und-dunkelbraun)
+  - [Erstes Stirnband](#erstes-stirnband)
   - [Blau-Weiß Fanschal](#blau-weiß-fanschal)
   - [Stirnbänder](#stirnbänder)
   - [Yarn-Winder oder Woll-Wickler](#yarn-winder-oder-woll-wickler)
@@ -64,7 +66,8 @@ Die Blumen können als Taschenanhänger genutzt werden.
 
 <a href="https://www.youtube.com/watch?v=8Rvfkv1S4sc&list=WL&index=52" target="_blank">Tutorial für die Blumen</a> 
 
-<img src="Bilder/Blumenanhänger.jpg" width="40%">
+<img src="Bilder/Blumenanhänger_1.jpg" width="40%">
+<img src="Bilder/Blumenanhänger_2.jpg" width="40%">
 
 ## Tote-Bag
 
@@ -101,6 +104,14 @@ Hier kann ich das ursprüngliche Tutorial leider nicht mehr finden. Das Tutorial
 <img src="Bilder/Taschen_Schnurr_2.jpeg" width="40%">
 <img src="Bilder/Taschen_Schnurr_3.jpg" width="40%">
 <img src="Bilder/Taschen_Schnurr_4.jpg" width="40%">
+
+## Fisch
+
+Den Fisch war ein Geschenk für einen Fischer. 
+
+<img src="Bilder/Fisch_1.jpg" width="40%">
+<img src="Bilder/Fisch_2.jpg" width="40%">
+
 
 ## Erstes Top
 
@@ -185,6 +196,15 @@ Ich habe wieder ein <a href="https://annahartl.github.io/crochet-blog/books#haub
 <!-- <img src="Bilder/Haube_8.jpg" width="40%"> 
 <img src="Bilder/Haube_9.jpg" width="40%">
 TODO Finale Fotos der Hauben -->
+
+## Erstes Stirnband
+
+Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/books#muster" target="_self">Musterbuch</a> probiert.
+
+<a href="https://www.allaboutami.com/how-to-crochet-a-twist-headband/
+" target="_blank">Tutorial für den Twist</a>
+
+
 
 ## Blau-Weiß Fanschal
 
@@ -305,6 +325,25 @@ Um ein wenig den Frühling einzuläuten, habe ich Deko-Hasen aufgestellt. Da es 
 
 Ich mache mit bei der <a href="https://www.innocentdrinks.at/dasgrossestricken" target="_blank">Aktion von Innocent</a>. Ich häkle Mützen und Hüte im Miniformat, die dann die Smoothies im Supermarkt tragen werden. Ich habe Hauben aus dem <a href="https://annahartl.github.io/crochet-blog/books#hauben" target="_self">Haubenbuch</a> auprobiert.
 
-<!-- TODO Rechtschreibung prüfen -->
+<img src="Bilder/MiniHaube_1.jpg" width="30%">
+<img src="Bilder/MiniHaube_2.jpg" width="30%">
+<img src="Bilder/MiniHaube_3.jpg" width="30%">
+<img src="Bilder/MiniHaube_4.jpg" width="30%">
+<img src="Bilder/MiniHaube_5.jpg" width="30%">
+<img src="Bilder/MiniHaube_6.jpg" width="30%">
+<img src="Bilder/MiniHaube_7.jpg" width="30%">
+<img src="Bilder/MiniHaube_8.jpg" width="30%">
+<img src="Bilder/MiniHaube_9.jpg" width="30%">
+<img src="Bilder/MiniHaube_10.jpg" width="30%">
+<img src="Bilder/MiniHaube_11.jpg" width="30%">
+<img src="Bilder/MiniHaube_12.jpg" width="30%">
+<img src="Bilder/MiniHaube_19.jpg" width="30%">
+<img src="Bilder/MiniHaube_13.jpg" width="30%">
+<img src="Bilder/MiniHaube_18.jpg" width="30%">
+<img src="Bilder/MiniHaube_14.jpg" width="30%">
+<img src="Bilder/MiniHaube_17.jpg" width="30%">
+<img src="Bilder/MiniHaube_15.jpg" width="30%">
+<img src="Bilder/MiniHaube_16.jpg" width="30%">
+<img src="Bilder/MiniHaube_20.jpg" width="30%">
 
 Diese Seite wurde von einem Menschen erstellt. Die Inhalte stammen von mir und sind nur Rechtschreibgeprüft von Le Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht werden.
