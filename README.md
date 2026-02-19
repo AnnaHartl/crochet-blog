@@ -60,9 +60,11 @@ Ich habe mir ein Täschchen für mein Häkelzeug gemacht. Die Konstruktion ist s
 
 <img src="Bilder/Granny.jpeg" width="40%">
 
+<!-- TODO Mehr Bilder von den Squares -->
+
 ## Blumenanhänger
 
-Die Blumen können als Taschenanhänger genutzt werden. 
+Die Blumen können als Taschenanhänger oder Girlande genutzt werden.
 
 <a href="https://www.youtube.com/watch?v=8Rvfkv1S4sc&list=WL&index=52" target="_blank">Tutorial für die Blumen</a> 
 
@@ -71,7 +73,7 @@ Die Blumen können als Taschenanhänger genutzt werden.
 
 ## Tote-Bag
 
-Durch dieses Projekt lernte ich, Charts zu lesen. Leider finde ich das Foto dazu nicht mehr. Aber es hat sich als sehr hilfreich herausgestellt, denn danach habe ich ein Buch mit Blumen-Granny-Squares bekommen. Die Idee für das Projekt stammte von mir, weil wir so viel Acrylwolle zu Hause hatten.
+Durch dieses Projekt lernte ich, Charts zu lesen. Leider finde ich das Foto dazu nicht mehr. <a href="https://www.craftpassion.com/wp-content/uploads/solid-granny-square-crochet-chart.jpg.webp" target="_blank"> Hier ein Link zu einem ähnlichen Bild.</a> Aber es hat sich als sehr hilfreich herausgestellt, denn danach habe ich ein Buch mit Blumen-Granny-Squares bekommen. Die Idee für das Projekt stammte von mir, weil wir so viel Acrylwolle zu Hause hatten.
 
 <img src="Bilder/Totebag_2.jpg" width="40%">
 <img src="Bilder/Totebag_3.jpg" width="40%">
@@ -107,7 +109,7 @@ Hier kann ich das ursprüngliche Tutorial leider nicht mehr finden. Das Tutorial
 
 ## Fisch
 
-Den Fisch war ein Geschenk für einen Fischer.
+Den Fisch war ein Geschenk für einen Fischer. <a href="https://chaicoffeecrochet.com/fish-amigurumi-keychain-free-pattern/" target="_blank">Hier ist der Link zum Tutorial.</a> 
 
 <img src="Bilder/Fisch_1.jpg" width="40%">
 <img src="Bilder/Fisch_2.jpg" width="40%">
@@ -128,7 +130,10 @@ Your browser does not support the video tag.
 
 ## Zweites Top
 
-Bei diesem Top habe ich auf die Tragekomfort geachtet. Den Ausschnitt habe ich mit einem Muster verziert, sodass er nicht so tief ist. Das Top ist ein perfektes Sommertop, und ich habe es auch schon einmal getragen.
+Bei diesem Top habe ich auf die Tragekomfort geachtet. Den Ausschnitt habe ich mit einem Muster verziert, sodass er nicht so tief ist. Ich habe auch keine Korsett-Schnürung gewählt, sodass es schneller zum Anziehen ist. Das Top ist ein perfektes Sommertop, und ich habe es auch schon einmal getragen.
+
+<a href="https://www.youtube.com/watch?v=4aCk_Aocv-Q&t=16s
+" target="_blank">Inspiriert von diesem Top</a>
 
 <img src="Bilder/Top2_1.jpg" width="40%">
 <img src="Bilder/Top2_2.jpg" width="40%">
