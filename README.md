@@ -216,7 +216,8 @@ Ich habe ein Muster aus dem <a href="https://annahartl.github.io/crochet-blog/bo
 
 Der Schal ist ein Geschenk für einen Blau-Weiß-Fan. Ich habe das erste Mal tapestry-Häkeln probiert. Ich habe mir aus dem Logo ein Grid erstellen lassen mit <a href="https://www.stitchfiddle.com/en" target="_blank">Stitchfiddle</a>.
 
-<!-- TODO Grid herzeigen -->
+
+<img src="Bilder/BW_8.jpeg" width="40%">
 
 <img src="Bilder/BW_7.jpg" width="40%">
 <img src="Bilder/BW_6.jpg" width="40%">
