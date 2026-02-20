@@ -4,6 +4,24 @@ footer {
   margin-top: 20px;
 }
 
+
+ img {
+    width: 40%;
+ }
+ video {
+    width: 40%;
+ }
+
+/* @media only screen and (min-width: 600px) {
+ img {
+    width: 20%;
+ }
+  video {
+    width: 20%;
+ }
+} 
+ 
+
 @media only screen and (max-width: 600px)  {
  img {
     width: 40%;
@@ -12,15 +30,7 @@ footer {
     width: 40%;
  }
 }
-
-@media only screen and (min-width: 600px) {
- img {
-    width: 20%;
- }
-  video {
-    width: 20%;
- }
-}
+*/
 
  /* The sidebar menu */
 .sidenav {
