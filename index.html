@@ -6,6 +6,7 @@
   <title>Häkelportfolio</title>
   <link rel="icon" type="image/x-icon" href="Bilder/favicon.ico">
   <link rel="stylesheet" href="main.css">
+  <script src="imagesBig.js"></script>
 </head>
 
 <body>
@@ -39,12 +40,14 @@
     <a href="#kuschelsocken">Kuschelsocken</a>
     <a href="#granny-square-tasche-für-mama">Granny-Square-Tasche für mich</a>
     <a href="#schal-für-deko-hasen">Schal für Deko-Hasen</a>
-    <a href="#kleine-kopfbedeckungen-für-smoothies" >Kleine Kopfbedeckungen für
+    <a href="#kleine-kopfbedeckungen-für-smoothies">Kleine Kopfbedeckungen für
       Smoothies</a>
-          <a href="#blumenhänger" style="padding-bottom: 60px;">Blumenhänger</a>
+    <a href="#blumenhänger" style="padding-bottom: 60px;">Blumenhänger</a>
   </div>
 
-  <div class="main">
+  <div class="responsive">
+
+
     <h1>Willkommen zu meinem Häkelportfolio</h1>
     <p>Hier zeige ich meine Projekte.
       Diese Seite dient mir als Dokumentation für alles, was ich häkle und was mich beschäftigt.
@@ -463,13 +466,14 @@ TODO Finale Fotos der Hauben -->
     <img src="Bilder/MiniHaube_20.jpg">
 
     <h2 id="blumenhänger">Blumenhänger</h2>
-    <p>Ich habe aus dem <a href="https://annahartl.github.io/crochet-blog/books" target="_self">Blumenbuch</a> neue Blumen ausprobiert. 
-      Damit ich sie aufhängen kann, habe ich sie mit einer Zuckerlösung gehärtet. 
-      Dafür habe ich zwei Teile Zucker und einen Teil Wasser in einem Topf erhitzt, bis es blubbert. 
-      Dann habe ich die Lösung abkühlen lassen und die Blumen hineingetaucht. 
-      Über Nacht sind sie getrocknet, und ich konnte sie aufhängen. 
+    <p>Ich habe aus dem <a href="https://annahartl.github.io/crochet-blog/books" target="_self">Blumenbuch</a> neue
+      Blumen ausprobiert.
+      Damit ich sie aufhängen kann, habe ich sie mit einer Zuckerlösung gehärtet.
+      Dafür habe ich zwei Teile Zucker und einen Teil Wasser in einem Topf erhitzt, bis es blubbert.
+      Dann habe ich die Lösung abkühlen lassen und die Blumen hineingetaucht.
+      Über Nacht sind sie getrocknet, und ich konnte sie aufhängen.
       Im Video sieht man gut den Unterschied zwischen einem noch nicht gehärteten und einem gehärteten Häkelstück.
-<a href="https://youtu.be/MA6yZ1dNa-8?si=GOS-TZFO-MJflwNn" target="_blank">Tutorial für die Zuckerlösung</a>
+      <a href="https://youtu.be/MA6yZ1dNa-8?si=GOS-TZFO-MJflwNn" target="_blank">Tutorial für die Zuckerlösung</a>
 
     </p>
 
@@ -486,6 +490,13 @@ TODO Finale Fotos der Hauben -->
       Chat eine Künstliche Intelligenz von Mistral AI. Fotos auf dieser Webseite dürfen nicht weiterveröffentlicht
       werden.
     </footer>
+  </div>
+  <div class="clearfix"></div>
+  <!-- The Modal -->
+  <div id="myModal" class="modal">
+    <span class="close">×</span>
+    <img class="modal-content" id="img01">
+    <div id="caption"></div>
   </div>
 </body>
 
