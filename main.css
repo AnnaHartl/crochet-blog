@@ -43,7 +43,7 @@ footer {
  /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 175px; /* Set the width of the sidebar */
+  width: 180px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -79,11 +79,6 @@ footer {
   color: #dbdbdb;
 }
 
-/* Style page content */
-.main {
-
-}
-
 /* image big on click */
 
 * {
@@ -92,7 +87,7 @@ footer {
 
 /* Add Responsiveness */
 .responsive {
-  margin-left: 175px; /* Same as the width of the sidebar */
+  margin-left: 180px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
 
@@ -116,7 +111,6 @@ footer {
   margin: auto;
   display: block;
   width: 80%;
-  max-width: 700px;
 }
 
 @-webkit-keyframes zoom {
@@ -147,22 +141,11 @@ footer {
   cursor: pointer;
 }
 
-/* Responsive Columns 
 @media only screen and (max-width: 700px){
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
   .modal-content {
     width: 100%;
   }
 }
-
-@media only screen and (max-width: 500px){
-  .responsive {
-    width: 100%;
-  }
-}*/
 
 /* Clear Floats */
 .clearfix:after {
